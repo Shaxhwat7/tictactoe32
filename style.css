@@ -35,13 +35,6 @@ body {
   color: #ecf0f1; /* New font color */
   background-color: #e74c3c; /* New background color */
 }
-.o-color{
-  color: rgb(13, 12, 11);
-}
-
-.x-color{
-  color: beige;
-}
 
 #reset-btn {
   padding: 1rem;
